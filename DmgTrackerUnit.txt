@@ -1,0 +1,7 @@
+## Title: DmgTrackerUnit. 
+## Author: @Anima5683
+## Description: Mein erstes Addon für Dmg Tracking einzelner Units. 
+## APIVersion: 101045
+## Version: 0.0.1
+
+DmgTrackerUnit.lua
